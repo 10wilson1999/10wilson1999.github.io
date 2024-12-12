@@ -1,0 +1,120 @@
+header nav img{
+    width: 110px;
+}
+header nav a{
+    color: black;
+    font-size: 20px;
+    font-weight: 300;
+    margin:10px;
+}
+#Intro1 h1,h2,h3,h4,h5,h6{
+    font-family: "Klee One", cursive;
+    font-style: normal;
+}
+#Intro1 p,a,label,textarea,li,input,span,ul{
+  font-family: "LXGW WenKai Mono TC", monospace;
+  font-style: normal;
+}
+#Intro1 .jumbotron{
+    height: 60vh;
+    margin-bottom: 0px;
+}
+#Intro1 .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#Intro2{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Intro3 h2{
+    margin-bottom: 20px;
+}
+#Intro3{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Intro3 h2{
+    margin-bottom: 20px;
+}
+#Skill1 h1,h2,h3,h4,h5,h6{
+    font-family: "Klee One", cursive;
+    font-style: normal;
+}
+#Skill1 p,a,label,textarea,li,input,span,ul{
+  font-family: "LXGW WenKai Mono TC", monospace;
+  font-style: normal;
+}
+#Skill1 .jumbotron{
+    height: 60vh;
+    margin-bottom: 0px;
+}
+#Skill1 .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#Skill2{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Skill3 h2{
+    margin-bottom: 20px;
+}
+#Skill3{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Skill3 h2{
+    margin-bottom: 20px;
+}
+#Q1 h1,h2,h3,h4,h5,h6{
+    font-family: "Klee One", cursive;
+    font-style: normal;
+}
+#Q1 p,a,label,textarea,li,input,span,ul{
+  font-family: "LXGW WenKai Mono TC", monospace;
+  font-style: normal;
+}
+#Q1 .jumbotron{
+    height: 60vh;
+    margin-bottom: 0px;
+}
+#Q1 .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#Q2{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Q3 h2{
+    margin-bottom: 20px;
+}
+#Q3{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Q3 h2{
+    margin-bottom: 20px;
+}
